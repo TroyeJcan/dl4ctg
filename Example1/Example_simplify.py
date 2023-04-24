@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on 2023/4/3 11:30
-Location CellsVision
-
-@author: Troye Jcan
-"""
 import os
 
 import numpy as np
