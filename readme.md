@@ -3,7 +3,7 @@
 本仓库包含了如何使用CTG特征数据以及CTU-CHB信号数据进行建模的示例，旨在帮助入门深度学习的开发者学习如何进行模型的训练。
 
 ## 目录结构
-Example1: 1.如何入门深度学习模型——https://blog.csdn.net/qq_43190189/article/details/130260518<br>
+Example1: 1.如何入门深度学习模型——https://blog.csdn.net/qq_43190189/article/details/130260518 <br>
 Example2: 2.如何对CTG特征数据建模——https://blog.csdn.net/qq_43190189/article/details/130342667
 
 
